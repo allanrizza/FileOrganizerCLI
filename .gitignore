@@ -1,0 +1,28 @@
+# ==================================
+# Arquivos gerados pelo sistema operacional
+# ==================================
+.DS_Store
+Thumbs.db
+
+# ==================================
+# Arquivos e pastas do IntelliJ IDEA
+# ==================================
+.idea/
+*.iml
+*.iws
+out/
+
+# ==================================
+# Arquivos e pastas do Gradle
+# ==================================
+.gradle
+build/
+
+# Cache de builds do Kotlin
+.kotlin/
+
+# ==================================
+# Arquivos de Log e Propriedades Locais
+# ==================================
+*.log
+local.properties
